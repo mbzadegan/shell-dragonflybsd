@@ -1,7 +1,7 @@
 # shell-dragonflybsd
 Get a free shell for dragonflybsd
 
-If you need a dragonflybsd VM shell, you can use this repo.
+If you need a DragonflyBSD VM shell, you can use this repo.
 
 
 1. First fork this repo
